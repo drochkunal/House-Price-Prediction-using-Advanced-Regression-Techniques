@@ -64,7 +64,7 @@ Jupyter Notebook
 ├── test.csv
 ├── sample_submission.csv
 ├── data_description.txt
-├── house_price_prediction.ipynb
+├── raw.ipynb
 └── README.md
 
 📈 Key Learnings
