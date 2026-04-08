@@ -58,6 +58,7 @@ Pandas & NumPy
 Scikit-learn
 Matplotlib & Seaborn
 Jupyter Notebook
+
 📂 Project Structure
 ├── train.csv
 ├── test.csv
@@ -65,12 +66,15 @@ Jupyter Notebook
 ├── data_description.txt
 ├── house_price_prediction.ipynb
 └── README.md
+
 📈 Key Learnings
 Importance of data preprocessing in ML pipelines
 Feature engineering significantly boosts performance
 Ensemble models outperform basic regression models
+
 🔗 Future Improvements
 Deploy model using Flask/Streamlit
 Perform advanced feature selection
+
 👤 Author
 Kunal Droch
